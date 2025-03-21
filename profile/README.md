@@ -10,6 +10,30 @@ Welcome to the official repository of **NIELIT AGRI TECH**, the Agricultural Tec
 - Conducting research on plant genetics and biotechnology.
 - Organizing workshops and seminars to educate the community about agri-tech advancements.
 
+## Useful Resources
+
+To help you get started and stay informed about our projects, please refer to the following resources:
+
+- **Documentation:**  
+  Comprehensive guides, API references, and setup instructions are available in our [docs directory](./docs).
+
+- **Project Wiki:**  
+  Visit our [Wiki](https://github.com/yourusername/NIELIT-AGRI-TECH/wiki) for detailed project roadmaps, meeting minutes, and research updates.
+
+- **Community Forum:**  
+  Join our discussion platform (details available on our website) to collaborate, share ideas, and receive assistance in real time.
+
+- **Official Website:**  
+  Learn more about our mission and ongoing initiatives at [NIELIT AGRI TECH Website](https://nielit.ac.in/agri-tech).
+
+- **Social Media and Updates:**  
+  Stay updated on upcoming workshops, seminars, and collaboration opportunities via our official social media channels, as listed on our website.
+
+## Contact
+
+For any inquiries or further information, please contact us at [agritech@nielit.ac.in](mailto:agritech@nielit.ac.in).
+
+
 ## 📌 Founder
 
 <table>
@@ -133,4 +157,21 @@ Welcome to the official repository of **NIELIT AGRI TECH**, the Agricultural Tec
         </p>
     </a>
 </td>
+</table>
+
+<table>
+<td>
+    <a href = "https://github.com/sonikasoibam" >
+        <p align="center">
+            <span style="color: white">Sonika Soibam</span>
+            <br><br>
+                <img src ="https://avatars.githubusercontent.com/u/178544520?v=4"  height="120" alt="Sonika" >
+        </p>
+        <p align="center">
+                <img src="https://img.icons8.com/?size=100&id=62856&format=png&color=38ff42" alt="GitHub" height="40" />
+        </p>
+    </a>
+</td>
+
+
 </table>
